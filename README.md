@@ -6,7 +6,7 @@ The goal of this project is to develop a customer segmentation model that can pr
 ### Data Description : 
 This project uses a dataset containing the usage behavior of approximately 9,000 active credit card holders over the past 6 months. The dataset includes 18 behavioral variables at the customer level, which are used to segment customers into different groups.
 ### Data :  
-Use the below link to download the Data Set:[here]([https://github.com/Consti23/MarketSegmentation/blob/main/Clustered_Customer_Data.csv](https://github.com/Consti23/Market_Segmentation/blob/main/Customer%20Data.csv) 
+Use the below link to download the Data Set: [here](https://github.com/Consti23/Market_Segmentation/blob/main/Customer%20Data.csv) 
 It summarizes various behavioral aspects such as spending patterns, repayment behavior, credit limit utilization, and more.
 ### Algorithms used :  
 In this dataset i've used five clustering algorithm to perform segmentation.These algorithms are given below.
