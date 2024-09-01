@@ -3,6 +3,8 @@
 ### Objective  :
 The goal of this project is to develop a customer segmentation model that can provide tailored recommendations for financial services such as saving plans, loans, and wealth management. By analyzing the behavior of credit card holders, we aim to identify distinct customer groups and understand their unique financial needs.
 <img align="center" src="https://user-images.githubusercontent.com/34673684/137431219-a5d99ac4-ce63-4435-8a49-4e19b09d0a07.png" alt="image">
+![grafik](https://github.com/user-attachments/assets/3df469fb-9caf-49ba-aea6-7f7fde172b31)
+
 ### Data Description : 
 This project uses a dataset containing the usage behavior of approximately 9,000 active credit card holders over the past 6 months. The dataset includes 18 behavioral variables at the customer level, which are used to segment customers into different groups.
 ### Data :  
